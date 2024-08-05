@@ -1,0 +1,15 @@
+20:00:20.036 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+20:00:28.113 [main] INFO  testClasses.SrbijaVozHome_testClass - ******Starting verifySearchingForTrainTicket ********
+20:00:28.390 [main] INFO  testClasses.SrbijaVozHome_testClass - Clicked on Checkbox Jedan smer
+20:00:29.768 [main] INFO  testClasses.SrbijaVozHome_testClass - Upisana pocetna stanica
+20:00:30.941 [main] INFO  testClasses.SrbijaVozHome_testClass - Upisana dolazna stanica
+20:00:31.648 [main] INFO  testClasses.SrbijaVozHome_testClass - datum je izabran
+20:00:35.746 [main] INFO  testClasses.SrbijaVozHome_testClass - validacija podnaslova
+20:00:35.900 [main] INFO  testClasses.SrbijaVozHome_testClass - **** Test verifySearchingForTrainTicket Finised *****
+20:00:37.491 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4893b344: 48 ms
+20:00:37.585 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2cfa2c4f: 94 ms
+20:00:37.586 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6ecab872: 1 ms
+20:00:37.594 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@e8ea697: 8 ms
+20:00:37.602 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e671e20: 6 ms
+20:00:37.609 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6fd12c5: 7 ms
+20:00:37.609 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1de0a46c: 0 ms
