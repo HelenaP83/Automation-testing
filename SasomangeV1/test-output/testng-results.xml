@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T14:05:22 CEST" name="Default suite" finished-at="2024-08-10T14:06:15 CEST" duration-ms="53291">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T14:05:22 CEST" name="Default test" finished-at="2024-08-10T14:06:15 CEST" duration-ms="53291">
+      <class name="testCases.TC04_CreatingAnAdd">
+        <test-method is-config="true" signature="setupInitialization()[pri:0, instance:testCases.TC04_CreatingAnAdd@4f1bfe23]" started-at="2024-08-10T14:05:22 CEST" name="setupInitialization" finished-at="2024-08-10T14:05:30 CEST" duration-ms="7967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupInitialization -->
+        <test-method signature="CreatingAdd_MandatoryFields_e2eTest()[pri:0, instance:testCases.TC04_CreatingAnAdd@4f1bfe23]" started-at="2024-08-10T14:05:30 CEST" name="CreatingAdd_MandatoryFields_e2eTest" finished-at="2024-08-10T14:06:15 CEST" duration-ms="45203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatingAdd_MandatoryFields_e2eTest -->
+      </class> <!-- testCases.TC04_CreatingAnAdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
