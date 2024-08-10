@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC03_Login">
+      <class name="testCases.TC04_CreatingAnAdd">
         <methods>
           <include name="setupInitialization"/>
-          <include name="SignInBy_usingValidDataAndEmailAsOption"/>
-          <include name="tearDown"/>
+          <include name="CreatingAdd_MandatoryFields_e2eTest"/>
         </methods>
-      </class> <!-- testCases.TC03_Login -->
+      </class> <!-- testCases.TC04_CreatingAnAdd -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
